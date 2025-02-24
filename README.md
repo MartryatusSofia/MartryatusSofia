@@ -16,7 +16,7 @@ I'm **Goo**, a **Lifelong Learner** currently working as **budagh kompeni**.
 ## 🎯 About Me:
 - 💻 I’m currently learning **Software Engineering**.  
 - 💬 Ask me about **anything!**  
-- 📫 How to reach me: [Email me!](martryatuss@gmail.com)  
+- 📫 How to reach me: [Email me!](mailto:martryatuss@gmail.com)  
 - 🌤 Pronouns: **She/Her**  
 - 🎨 Passionate about **drawing & writing**  
 
@@ -25,7 +25,7 @@ I'm **Goo**, a **Lifelong Learner** currently working as **budagh kompeni**.
 ## 🌐 Let's Connect!
 <p align="left">
 <a href="https://twitter.com/yours" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-<a href="https://www.instagram.com/yours/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.instagram.com/mrtryatuss_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://yours.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>
 </p>
 
