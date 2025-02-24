@@ -1,29 +1,34 @@
-# <summary><strong>Hi there :wave: , I'm Goo!</strong></summary>
-Lifelong Learner, currently working as budagh kompeni.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
+### Hi there! <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="30px">
 
-### <summary><strong>Tools:</strong></summary>
-<p>
+I'm **Goo**, a **Lifelong Learner** currently working as **budagh kompeni**.
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat)
+
+## 🚀 Tools & Technologies:
+<p align="left">
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
-### <summary><strong>Yosh!</strong></summary>
-<p>
-    - :keyboard: I’m currently learning Data Analytics. </br>
-    - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:youremail@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: She/Her. </br>
-    - :game_die: Drawing and writing are part of me. </br>
-<p>
- 
-### <summary><strong>Let's connect!</strong></summary>
-<a href="https://twitter.com/yours">
-  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
-</a>
-<a href="https://www.instagram.com/yours/">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
-<a href="https://yours.com/">
-  <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
-</a>
+---
+
+## 🎯 About Me:
+- 💻 I’m currently learning **Software Engineering**.  
+- 💬 Ask me about **anything!**  
+- 📫 How to reach me: [Email me!](martryatuss@gmail.com)  
+- 🌤 Pronouns: **She/Her**  
+- 🎨 Passionate about **drawing & writing**  
+
+---
+
+## 🌐 Let's Connect!
+<p align="left">
+<a href="https://twitter.com/yours" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://www.instagram.com/yours/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://yours.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>
+</p>
+
+---
+
+⭐️ _Feel free to explore my profile and connect!_ 🚀
